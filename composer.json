@@ -1,0 +1,14 @@
+{
+    "name": "websemantics/timetable-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Websemantics\\TimetableModule\\": "src/"
+        },
+        "files": [
+            "src/Helpers/helper_functions.php"
+        ]
+    },
+    "require": {
+    }
+}
