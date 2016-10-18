@@ -17,7 +17,7 @@ The main purpose of this module is to demonstrate the custom Calendar view Pyro 
 
 To install,
 
-1- Clone this repo inside your project at `app/addons/default/websemantics/timetable-module`,
+1- Clone this repo inside your project at `addons/default/websemantics/timetable-module`,
 
 ```bash
 git clone https://github.com/websemantics/timetable-module
@@ -26,7 +26,7 @@ git clone https://github.com/websemantics/timetable-module
 2- Install the module
 
 ```bash
-php artisan module:install websemantics.module.timetable-module
+php artisan module:install websemantics.module.timetable
 ```
 
 ![Calendar View](https://github.com/websemantics/timetable-module/raw/master/docs/timetable-module.gif "Calendar View")
